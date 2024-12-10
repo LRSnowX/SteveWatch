@@ -164,12 +164,6 @@
       "name": "新浪|点播",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
-    },
-    {
-      "name": "森林资源|AV",
-      "type": 1,
-      "api": "https://slapibf.com/api.php/provide/vod/"
     }
-
   ]
 }
