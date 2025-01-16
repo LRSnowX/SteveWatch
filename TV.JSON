@@ -1,5 +1,41 @@
 {
     "sites": [
+    {
+      "name": "4K资源",
+      "type": 3,
+      "api": "SW_FKAV",
+      "ext": "SW_FKAV"
+    },
+    {
+      "name": "低端影视",
+      "type": 3,
+      "api": "SW_DDYS",
+      "ext": "SW_DDYS"
+    },
+  {
+      "name": "韩剧看看",
+      "type": 3,
+      "api": "SW_HJKK",
+      "ext": "SW_HJKK"
+    },
+  {
+      "name": "在线之家",
+      "type": 3,
+      "api": "SW_ZXZJ",
+      "ext": "SW_ZXZJ"
+    },
+ {
+      "name": "欧乐🪜",
+      "type": 3,
+      "api": "SW_OLE",
+      "ext": "SW_OLE"
+    },
+ {
+      "name": "ギリギリ动漫",
+      "type": 3,
+      "api": "SW_DMZF",
+      "ext": "SW_DMZF"
+    },
         { "name": "优质资源","type": 1, "api": "https://api.yzzy-api.com/inc/api_mac10_all.php"},
         { "name": "360|点播", "type": 1, "api": "https://360zy.com/api.php/provide/vod/" },
         { "name": "旺旺|点播", "type": 1, "api": "https://api.wwzy.tv/api.php/provide/vod/" },
