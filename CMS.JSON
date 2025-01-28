@@ -1,5 +1,17 @@
 {
     "sites": [
+ {
+      "name": "素白白",
+      "type": 3,
+      "api": "SW_SBB",
+      "ext": "SW_SBB"
+    },
+ {
+      "name": "修罗影视",
+      "type": 3,
+      "api": "SW_BDYS",
+      "ext": "SW_BDYS"
+    },
   {
       "name": "在线之家",
       "type": 3,
