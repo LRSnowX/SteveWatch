@@ -47,6 +47,24 @@
       "type": 3,
       "api": "SW_DDYS",
       "ext": "SW_DDYS"
+    },
+    {
+      "name": "哔滴影视",
+      "type": 3,
+      "api": "SW_BDYS",
+      "ext": "SW_BDYS"
+    },
+    {
+      "name": "厂长资源",
+      "type": 3,
+      "api": "SW_CZ",
+      "ext": "SW_CZ"
+    },
+    {
+      "name": "星芽短剧",
+      "type": 3,
+      "api": "SW_XY",
+      "ext": "SW_XY"
     }
     ]
 }
