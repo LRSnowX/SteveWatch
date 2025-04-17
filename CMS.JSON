@@ -65,6 +65,18 @@
       "type": 3,
       "api": "SW_XY",
       "ext": "SW_XY"
+    },
+    {
+      "name": "小红影视",
+      "type": 3,
+      "api": "SW_XHYS",
+      "ext": "SW_XHYS"
+    },
+    {
+      "name": "影视天堂",
+      "type": 3,
+      "api": "SW_YSTT",
+      "ext": "SW_YSTT"
     }
     ]
 }
