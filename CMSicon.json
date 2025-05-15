@@ -1,0 +1,82 @@
+{
+    "sites": [
+ {"name": "素白白",
+      "type": 3,
+      "api": "SW_SBB",
+      "ext": "SW_SBB",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/1.png"
+    },
+ {"name": "修罗影视",
+      "type": 3,
+      "api": "SW_BDYS",
+      "ext": "SW_BDYS",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/2.png"
+    },
+  {"name": "在线之家",
+      "type": 3,
+      "api": "SW_ZXZJ",
+      "ext": "SW_ZXZJ",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/3.png"
+    },
+ {"name": "欧乐🪜",
+      "type": 3,
+      "api": "SW_OLE",
+      "ext": "SW_OLE",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/4.png"
+    },
+ {"name": "ギリギリ动漫",
+      "type": 3,
+      "api": "SW_DMZF",
+      "ext": "SW_DMZF",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/5.png"
+    },
+  {"name": "韩剧看看",
+      "type": 3,
+      "api": "SW_HJKK",
+      "ext": "SW_HJKK",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/6.png"
+    },
+   {"name": "4K资源",
+      "type": 3,
+      "api": "SW_FKAV",
+      "ext": "SW_FKAV",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/7.png"
+    },
+    {"name": "低端影视",
+      "type": 3,
+      "api": "SW_DDYS",
+      "ext": "SW_DDYS",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/8.png"
+    },
+    {"name": "哔滴影视",
+      "type": 3,
+      "api": "SW_BDYS",
+      "ext": "SW_BDYS",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/9.png"
+    },
+    {"name": "厂长资源",
+      "type": 3,
+      "api": "SW_CZ",
+      "ext": "SW_CZ",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/10.png"
+    },
+    {"name": "星芽短剧",
+      "type": 3,
+      "api": "SW_XY",
+      "ext": "SW_XY",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/11.png"
+    },
+    {"name": "小红影视",
+      "type": 3,
+      "api": "SW_XHYS",
+      "ext": "SW_XHYS",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/12.png"
+    },
+    {"name": "影视天堂",
+      "type": 3,
+      "api": "SW_YSTT",
+      "ext": "SW_YSTT",
+      "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/13.png"
+    }
+    ]
+}
