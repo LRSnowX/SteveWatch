@@ -11,7 +11,8 @@
     "name": "暴风资源",
     "api": "https://bfzyapi.com/api.php/provide/vod/"
   },
-  { "name": "百度资源",
+  { 
+    "name": "百度资源",
     "api": "https://api.apibdzy.com/api.php/provide/vod/"
   },
   {
@@ -153,13 +154,5 @@
   {
     "name": "最大资源",
     "api": "http://zuidazy.me/api.php/provide/vod/"
-  },
-  {
-    "name": "低端影视",
-    "api": "cms://ddys",
-  },
-  {
-    "name": "在线之家",
-    "api": "cms://zxzj",
   }
 ]
